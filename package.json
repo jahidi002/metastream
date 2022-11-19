@@ -1,6 +1,9 @@
 {
   "name": "metastream",
   "version": "1.0.0",
+  "engines": {
+    "node": "13.0.0"
+  },
   "description": "Metastream root",
   "private": true,
   "workspaces": [
